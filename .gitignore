@@ -1,0 +1,7 @@
+# Ignore Go build files 
+/bin/
+/pkg/
+/*.exe
+/*.out
+*.log
+.DS_Store
